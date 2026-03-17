@@ -1,12 +1,16 @@
 # Kindle Serveur PHP
 
-![Kindle Serveur sketch](serveur.jpg)
+<p align="center">
+  <img src="serveur.jpg" alt="Kindle Serveur sketch" width="180">
+</p>
 
-> R.I.P — Kindle Serveur 2010 — 2025  
-> Kelimeleri öne çıkaran, dünyayı sadeleştiren küçük bir pencereydi.  
-> Yıllarca durdu. İzlendi. Bekledi.  
-> Bir gün yerinden alınırken küçük bir şeye çarptı — ekran sustu.  
-> Hikâye orada bitmedi. Bu kitap, o sessizlikte yazılmaya devam etti.
+<p align="center">
+  <em>R.I.P — Kindle Serveur 2010 — 2025</em><br>
+  <em>Kelimeleri öne çıkaran, dünyayı sadeleştiren küçük bir pencereydi.</em><br>
+  <em>Yıllarca durdu. İzlendi. Bekledi.</em><br>
+  <em>Bir gün yerinden alınırken küçük bir şeye çarptı — ekran sustu.</em><br>
+  <em>Hikâye orada bitmedi. Bu kitap, o sessizlikte yazılmaya devam etti.</em>
+</p>
 
 Kindle Serveur, eski bir Kindle 3 Keyboard'u boş boş bekletmek yerine onu bir e-ink dashboard'a dönüştürme fikrinden çıktı.
 
